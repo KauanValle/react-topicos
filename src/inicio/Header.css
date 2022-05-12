@@ -1,0 +1,36 @@
+
+.list {
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    background-color: rgb(110, 168, 255);
+    padding: 0 40px;
+}
+
+.list h2{
+    color: white;
+    font-size: 50px;
+    margin: 0;
+    padding: 0;
+}
+ul {
+    padding: 0;
+}
+.list li {
+    margin: 10px 0;
+    padding: 8px 20px;
+    border-radius: 10px;
+    background-color: #EEE;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+li{
+    list-style: none;
+}
+
